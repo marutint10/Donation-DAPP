@@ -12,9 +12,9 @@ module.exports = {
       // gasPrice: 130000000000,
     },
     rinkeby: {
-      url: "https://eth-rinkeby.alchemyapi.io/v2/qvjcU_5bNspZf2D1YZwenKWNd_Vkxyc3",
+      url: "//",
       accounts: [
-        "24173b87776698ba47483a1544331168b3a61f4110e78e96d32c99b910f8518d",
+        "//",
       ],
       chainId: 4,
       blockConfirmations: 6,
